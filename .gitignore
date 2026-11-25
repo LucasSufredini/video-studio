@@ -1,0 +1,9 @@
+node_modules/
+out/
+.env
+*.log
+# Guias de estilo pessoais ficam só na máquina de quem criou
+skills/video-motion/styles/*
+!skills/video-motion/styles/README.md
+__pycache__/
+*.pyc
